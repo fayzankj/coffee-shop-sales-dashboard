@@ -53,9 +53,8 @@ To ensure the accuracy and reliability of the analysis, the project also include
 
 ## 📂 Project Files  
 - **Interactive Dashboard:** Includes slicers, charts, and tables for detailed analysis.  
-- **Preprocessed Data:** Cleaned and formatted dataset ready for analysis.  
 - **Source Data:** Raw sales data used for creating the dashboard.  
-- **Documentation:** Instructions on how to use and interpret the dashboard effectively.  
+- **Dashboard Screenshots:** Visual representations of the dashboard for reference, available in the repository.  
 
 ---
 
