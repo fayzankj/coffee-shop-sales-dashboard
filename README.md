@@ -67,7 +67,7 @@ To ensure the accuracy and reliability of the analysis, the project also include
 ---
 
 ## 📸 Screenshots  
-![Dashboard Overview](https://via.placeholder.com/1024x512?text=Dashboard+Overview)  
+![Dashboard Overview](ss.png)  
 *An overview of the interactive dashboard, showcasing sales trends and product performance insights.*  
 
 ---
